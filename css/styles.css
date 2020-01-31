@@ -1,0 +1,188 @@
+
+h1 {
+    font-family: 'Sacramento', cursive, sans-serif;
+    font-weight: 600;
+    width: 30%;
+    font-size: 60px;
+    margin: 0 auto;
+    color: #3BC3ED;
+}
+
+h2 {
+    font-family: 'Martel', sans-serif;
+    color: #56C2E2;
+    font-size: 2rem;
+    
+}
+h3 {
+    font-family: 'Martel', sans-serif;
+    color: #48A7C4;
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    background-color: #F4F4F4
+}
+
+p {
+    color: #292A2B;
+    line-height: 2;
+}
+
+hr {
+    width: 9%;
+    margin: 0 auto;
+    color: #D1C6C6;
+    height: 0;
+    border-width: 7px;
+    border-style: dotted none none none;
+}
+
+h4 {
+    border-radius: 4px;
+    font-size: 1.2rem;
+    background-color: #04E4F4;
+    border: 1px white;
+    margin: 10px auto;
+    width: 7rem;
+    height: 2rem;
+}
+
+a {
+    font-size: 120%;
+    margin: 20px auto;
+    color: #1F4751;
+    /*width: 2em;*/
+    text-decoration: none;
+}
+
+
+#getInTouch {
+    margin-bottom: 60px;
+}
+
+.myButton {
+    margin: 50px auto 40px;
+	box-shadow: 2px 2px 6px 1px #8fd3e6;
+	background:linear-gradient(to bottom, #70ceeb 5%, #43accc 100%);
+	background-color:#70ceeb;
+	border-radius:34px;
+	border:2px solid #1797ba;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:19px;
+	font-weight:bold;
+	font-style:italic;
+	padding:9px 25px;
+	text-decoration:none;
+	text-shadow:2px 2px 2px #2f6627;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #43accc 5%, #70ceeb 100%);
+	background-color:#43accc;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.top-div {
+        background-color: #D5EBF2;
+        margin: 0 auto;
+        padding-top: 200px;
+        
+}
+
+.mid-div {
+    
+    background-color: #F4F4F4;
+    width: 50%;
+    margin: 100px auto;
+    
+}
+
+.bottom-div {
+    width: 50%;
+    margin: 70px auto;
+    
+}
+
+.bottom-div h2 {
+    font-size: 2rem;
+}
+
+.contact-me {
+    margin: 100px auto 20px;
+}
+
+
+.design-pic {
+    padding-right: 30px;
+    width: 18%;
+    /*border-radius: 70%;*/
+    float: left;
+}
+
+.programing-pic {
+    padding-left: 30px;
+    width: 18%;
+    /*border-radius: 100%;*/
+    float: right;
+}
+
+.skill-a {
+    margin: 100px auto;
+    text-align: left;
+}
+
+.skill-b {
+    margin: 100px auto;
+    text-align: left;
+}
+.cloud1 {
+    width: 130px;
+    position: absolute;
+    right: 220px;
+    top: 150px;
+}
+
+
+.intro {
+    text-align: center;
+}
+
+.cloud2 {
+    width: 150px;
+    position: absolute;
+    top: 350px;
+    left: 230px;
+}
+
+.profile-pic {
+    margin: 0px auto 50px auto;
+    width: 150px;
+    border-radius: 100%;
+}
+
+.footer {
+    background-color: #3BC3ED;
+    height: 100px;
+}
+
+.footLink {
+    margin: auto 1rem;
+    width: 5em;
+    position: relative;
+    top: 30px;
+}
+
+#copyright {
+    color: #449A9B;
+    position: relative;
+    top: 30px;
+}
